@@ -1,4 +1,6 @@
 # Rowboat
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkcomain%2Flensboat.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkcomain%2Flensboat?ref=badge_shield)
+
 
 [![](https://discordapp.com/api/guilds/290923757399310337/embed.png?style=banner2)](https://discord.gg/rowboat)
 
@@ -31,3 +33,7 @@ To get a local version of rowboat running, you will need [docker-compose](https:
 ## Can You Add Rowboat To My Server?
 
 Maybe. If you are interested in having Rowboat on your server, please join ([discord.gg/rowboat](https://discord.gg/rowboat)) the server and provide an invite and some general information. Rowboat is only added to larger (1-2k+ average CCU) servers that have more complex moderation requirements.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkcomain%2Flensboat.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkcomain%2Flensboat?ref=badge_large)
